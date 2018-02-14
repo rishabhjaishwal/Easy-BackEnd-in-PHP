@@ -1,5 +1,5 @@
 # Easy-BackEnd-in-PHP
-BackEnd for content creation and editing and deleting files of website without visiting to hosting BackEnd Panel(Using own website Admin Panel)
+BackEnd for content creation and editing and deleting files of website without visiting to hosting BackEnd Panel(Using own website Admin Panel)<br>
 Step 1: Place all the file as it is in htdoc or www folder 
 Step 2: Create a new database of any name
 Step 3: Find all connect.php and connect with your database name , password and username.
@@ -13,7 +13,7 @@ Step 4: Create a table in your database of name login with column name as
             email           varchar(200),
             phonenumber     int,      
        
-       Note: Login table is for login as admin temporarily into BackPanel afterwards you can change accordingly(add one login detail                     before login)
+        Note: Login table is for login as admin temporarily into BackPanel afterwards you can change accordingly(add one login detail                     before login)
  
  Step 5: Create another table in your database of name fileaddress with column name as
             Sno               int           auto_increment primary key,
