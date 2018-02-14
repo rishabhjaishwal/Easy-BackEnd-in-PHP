@@ -34,10 +34,11 @@ Step 6: How to create or open a file<br>
               2) When you want to create file in where your index.php is placed then just used ("../") before page1.php it will create                          file outside adminpanel folder ("../page1.php" or "../page1.txt" or "../page1.css" or any other file extension)<br><br>
               3)If you want to create a file in a specific folder then just use path as ("../folder1/page1.php" or "folder1/page1.php")
       <br><br>  
+      Version : V1.0<br>
       If You are facing any problem on implementing this basic BackPanel or CMS Panel then<br>
       You canalso  drop a mail to me on : rishabhjaishwal7@gmail.com<br>
      
   # Developer : Rishabh Jaishwal<br>
-  blog Id-https://rishabhjaishwal.blogspot.com/
-   Version : Version 1.0<br>
+  blog Id-https://rishabhjaishwal.blogspot.com/<br>
+   
      
