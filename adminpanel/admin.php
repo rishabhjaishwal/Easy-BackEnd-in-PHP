@@ -1,5 +1,4 @@
 <?php include("chksession.php");?>
-<?php include("../meta.php");?>
 <?php include("../lib.php");?>
 <?php include("navadmin.php");
 
