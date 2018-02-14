@@ -39,6 +39,6 @@ Step 6: How to create or open a file<br>
       You canalso  drop a mail to me on : rishabhjaishwal7@gmail.com<br>
      
   # Developer : Rishabh Jaishwal<br>
-  blog Id-https://rishabhjaishwal.blogspot.com/<br>
+  blog link-https://rishabhjaishwal.blogspot.com/<br>
    
      
