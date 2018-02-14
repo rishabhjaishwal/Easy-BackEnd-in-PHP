@@ -36,6 +36,7 @@ Step 6: How to create or open a file<br>
       <br><br>  
       If You are facing any problem on implementing this basic BackPanel or CMS Panel then<br>
       You can drop a mail to me on : rishabhjaishwal7@gmail.com<br>
-      Author : Rishabh Jaishwal<br>
-      Version : Version 1.0<br>
+     
+  # Developer : Rishabh Jaishwal<br>
+   Version : Version 1.0<br>
      
