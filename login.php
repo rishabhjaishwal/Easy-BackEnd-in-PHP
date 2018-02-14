@@ -1,6 +1,5 @@
-//<?php include("meta.php");?>
+
 <?php include("lib.php");?>
-//<?php include("nav.php");?>
 <div class="container-fluid">
 	<div class="row">
     	<div class="col-lg-4">
@@ -21,4 +20,3 @@
         </div>
     </div>
 </div>
-<?php include("footer.php");?>
