@@ -13,7 +13,7 @@ Step 4: Create a table in your database of name login with column name as    <br
             email           varchar(200),<br>
             phonenumber     int,<br>      
    <br><br>    
-   Note: Login table is for login as admin temporarily into BackPanel afterwards you can change accordingly(add one login detail                     before login)<br><br><br>
+   Note: Login table is for login as admin temporarily into BackPanel afterwards you can change accordingly(add one login detail                     before login)<br><br>
  
  Step 5: Create another table in your database of name fileaddress with column name as <br>
             Sno               int           auto_increment primary key,<br>
