@@ -2,7 +2,7 @@
 <?php include("../meta.php");?>
 <?php include("../lib.php");?>
 <?php include("navadmin.php");?>
-<?php $con=mysqli_connect("localhost","root","root","finalproject") or die("could not connect");
+<?php include("connect.php");?>
 $res=mysqli_query($con,"Select * from fileaddress") or die(mysqli_error($con));
 if(mysqli_affected_rows($con)>0)
 { 
