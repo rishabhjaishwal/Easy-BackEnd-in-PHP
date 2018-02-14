@@ -35,8 +35,9 @@ Step 6: How to create or open a file<br>
               3)If you want to create a file in a specific folder then just use path as ("../folder1/page1.php" or "folder1/page1.php")
       <br><br>  
       If You are facing any problem on implementing this basic BackPanel or CMS Panel then<br>
-      You can drop a mail to me on : rishabhjaishwal7@gmail.com<br>
+      You canalso  drop a mail to me on : rishabhjaishwal7@gmail.com<br>
      
   # Developer : Rishabh Jaishwal<br>
+  blog Id-https://rishabhjaishwal.blogspot.com/
    Version : Version 1.0<br>
      
